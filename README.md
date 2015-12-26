@@ -1,2 +1,2 @@
 # fedosejev.com
-Fedosejev.com website.
+Deprecated version of Fedosejev.com website. Some content needs to be migrated to a new website.
